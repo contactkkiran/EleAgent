@@ -1,0 +1,3 @@
+xultralytics
+opencv-python
+yt-dlp˝
